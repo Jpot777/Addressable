@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1f8aa46c2694a482aa4765fa445043de
+  m_SerializeEntries:
+  - m_GUID: f78a14b042e514e3ba41f6e9d9ec73b2
+    m_Address: Assets/03Prefabs/Ak-47.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae2744de8201341fea515122079e25d0
+    m_Address: Assets/03Prefabs/M4A1 Sopmod.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e9b979ad4c4084dcc82e5afa9336a74d
+    m_Address: Assets/03Prefabs/Smoke Grenade.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8fff2b7374cca4281aaa7dc3b61220d1, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b9dfe56262c99444eb6710d46ec87776, type: 2}
+    - {fileID: 11400000, guid: a9051c31116e548d0a48306de8549bfe, type: 2}
